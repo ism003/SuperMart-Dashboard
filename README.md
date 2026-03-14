@@ -1,2 +1,3 @@
 # SuperMart-Dashboard
 This project analyzes e-commerce sales data and presents insights through an interactive Power BI dashboard. The dashboard was created using raw Excel sales data and includes visualizations for total sales amount, profit, quantity sold, state-wise sales, category performance, payment modes, customer purchases, and monthly profit trends
+The goal of this project is to transform raw business data into meaningful insights that help understand customer behavior, product demand, and regional sales performance. The dashboard helps businesses make data-driven decisions, improve sales strategies, and optimize inventory management. It demonstrates practical skills in data cleaning, data visualization, and business analytics using Power BI.
